@@ -1,7 +1,7 @@
 # arduino-plasma-ball
 Destroying the web with a plasma ball
 
-[http://www.tannr.com/2015/10/13/destroying-the-web-with-a-plasma-ball/]
+http://www.tannr.com/2015/10/13/destroying-the-web-with-a-plasma-ball/
 
 ### How it works
 
@@ -14,7 +14,7 @@ Destroying the web with a plasma ball
 ##### Python Script
 
 * It needs to be executable (chmod +x on *nix)
-* The manifest file needs to be moved to the appropriate location defined here: [https://developer.chrome.com/extensions/nativeMessaging]
+* The manifest file needs to be moved to the appropriate location defined here: https://developer.chrome.com/extensions/nativeMessaging
 * The app ID will probably may need to be changed (can be found in chrome://extensions)
 
 ##### Circuit
