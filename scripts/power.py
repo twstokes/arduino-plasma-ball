@@ -4,7 +4,6 @@ import sys
 import struct
 import serial
 import time
-from subprocess import call
 
 ser = serial.Serial('/dev/tty.usbmodemFA431', 9600)
 
