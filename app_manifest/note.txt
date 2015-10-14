@@ -1,1 +1,0 @@
-The manifest file needs to be moved to the appropriate location defined here: https://developer.chrome.com/extensions/nativeMessaging
