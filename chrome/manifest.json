@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  "name": "You've got the power.",
+  "description": "Use with caution.",
+  "version": "0.1",
+
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "css": ["content.css"],
+      "js": ["jquery.min.js", "content.js"]
+    }
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "nativeMessaging",
+    "tabs"
+  ]
+}

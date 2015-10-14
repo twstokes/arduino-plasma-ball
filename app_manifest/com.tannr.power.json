@@ -1,0 +1,9 @@
+{
+  "name": "com.tannr.power",
+  "description": "I've got the power.",
+  "path": "/Users/tanner/dev/misc/arduino-plasma-ball/scripts/power.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://pjeaecbjnggeoiefcgamkfdoclbhjdhj/"
+  ]
+}

@@ -1,0 +1,7 @@
+.boom {
+	display: inline-block;
+	transition: all 3s ease;
+	overflow: visible;
+	position: absolute;
+	z-index: 1000;
+}
